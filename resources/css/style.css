@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Verdana;
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    Margin-top: 20px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h5 {
+    Margin-top: 20px;
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
+}
